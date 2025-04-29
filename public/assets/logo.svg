@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
+  <!-- Shield Background -->
+  <path d="M200,10 L370,40 C380,42 385,55 380,68 L350,130 C345,140 335,145 325,145 L75,145 C65,145 55,140 50,130 L20,68 C15,55 20,42 30,40 L200,10 Z" fill="#1a1a1a" stroke="#ff00cc" stroke-width="3"/>
+  
+  <!-- Helix lines (abstract twisting spiral) -->
+  <path d="M120,60 C150,20 250,20 280,60 S280,100 250,120 150,130 120,120" fill="none" stroke="#00ff99" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130,70 C160,30 240,30 270,70 S270,100 240,110 160,110 130,100" fill="none" stroke="#00ff99" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  
+  <!-- Logo Text -->
+  <text x="200" y="140" text-anchor="middle" fill="#ffffff" font-size="28" font-family="Orbitron, sans-serif" font-weight="bold">
+    Cyberhelix
+  </text>
+</svg>

@@ -1,0 +1,52 @@
+body {
+  background: #0f0f0f;
+  color: #fff;  /* Brighter text */
+  font-family: 'Courier New', Courier, monospace;
+}
+.card {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.dashboard-header {
+  text-align: center;
+  padding: 20px 0;
+  background: linear-gradient(90deg, #ff00cc, #3333ff);
+  color: #fff;
+  box-shadow: 0 0 10px #ff00cc;
+  margin-bottom: 30px;
+}
+.timestamp {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+.category {
+  margin-bottom: 20px;
+}
+.dashboard-container h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.cyber-card {
+  background: #1a1a1a;
+  border: none;
+  box-shadow: 0 0 15px rgba(255, 0, 204, 0.4);
+  transition: transform 0.2s;
+}
+.cyber-card:hover {
+  transform: scale(1.02);
+}
+.cyber-card h2 {
+  font-size: 1.3rem;
+  color: #00ff99; /* Bright neon green for headers */
+  margin-bottom: 10px;
+}
+.value {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff; /* Bright white for numbers */
+}
+.logo {
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}

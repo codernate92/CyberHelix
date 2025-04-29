@@ -1,0 +1,16 @@
+# Node modules and build artifacts
+/node_modules
+/public/assets/js/bundle.js
+/public/assets/js/bundle.js.LICENSE.txt
+
+# PHP vendor libraries
+/vendor
+
+# Environment files
+.env
+
+# OS Files
+.DS_Store
+
+# Logs
+*.log
